@@ -50,3 +50,7 @@ pytest tests/ -v
 ## Auteur
 
 KIMBUNGU SIMÉON GEDEON — TP Sciences des données.
+
+## Encadreur
+
+Doctorant Gradi L. KAMINGU
